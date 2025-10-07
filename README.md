@@ -2,6 +2,25 @@
 
 ### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
 
+## How It's Made:
+
+**Tech used:** HTML, CSS, JavaScript
+Using the fundamentals
+
+
+## Optimizations
+*(optional)*
+
+
+
+## Lessons Learned:
+Complex APIs are exponentially harder to work with.
+
+
+
+
+README structure partially used from alec-chernicki
+
 ### How to submit your code for review:
 
 - Fork and clone this repo
